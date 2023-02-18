@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * Main - Prints Numberz
+ * main - Prints Numberz
  * Return: Always 0 (Success)
  */
 
