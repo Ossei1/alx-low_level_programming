@@ -23,15 +23,15 @@ int main(void)
 					putchar(n);
 					putchar(m);
 					putchar(l);
-					if (n != 55 || m !=56)
+					if (n != 55 || m != 56)
 					{
-						putchar(',')
-						putchar(' ')
+						putchar(',');
+						putchar(' ');
 					}
 				}
 			}
 		}
 	}
-	putchar('\n')
-		return (0);
+	putchar('\n');
+	return (0);
 }
