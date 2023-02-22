@@ -4,7 +4,7 @@
  * Description: 'prints alphabets in small caps'
  * Return: Always 0 (Success)
  */
-main print_alphabet(void)
+int print_alphabet(void)
 {
 	int i;
 
