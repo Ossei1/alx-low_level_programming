@@ -8,6 +8,7 @@ int print_alphabet(void)
 {
 	int i;
 
+	print_alphabet(i);
 	for (i = 97; i <= 122; i++)
 	{
 		_putchar(i);
