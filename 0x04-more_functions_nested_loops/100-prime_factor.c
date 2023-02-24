@@ -6,10 +6,10 @@
  * Return: Always 0 (Success)
  */
 
-int main (void)
+int main(void)
 
 {
-	long int x, maxf;
+	long x, maxf;
 	long number = 612852475143;
 	double square = sqrt(number);
 
