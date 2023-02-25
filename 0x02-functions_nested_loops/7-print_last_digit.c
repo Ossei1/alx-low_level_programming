@@ -4,15 +4,15 @@
  * print_last_digit - prints last digit
  *
  * @n: inputs number an integer
- * @l: last digit
+ *
  * Return: last digit
  */
 
 int print_last_digit(int n)
 {
-	int l; 
+	int l;
 
-		l = n % 10;
+	l = n % 10;
 	if (l < 0)
 	{
 		_putchar(-l + 48);
